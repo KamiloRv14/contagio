@@ -1,0 +1,16 @@
+{
+  "name": "v24.11.0-win-x64",
+  "version": "1.0.0",
+  "description": "Node.js is an open-source, cross-platform JavaScript runtime environment.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+ "scripts": {
+
+"start": "node server.js"
+
+},
+
+"type": "module"
+}
